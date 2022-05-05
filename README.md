@@ -1,1 +1,1 @@
-# simple-progect-1-calculator
+# simple-project-1-calculator
